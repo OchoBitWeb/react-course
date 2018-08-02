@@ -1,0 +1,14 @@
+.movement {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+}
+
+.movement-description {
+	display: flex;
+}
+
+.movement-account {
+	display: flex;
+	justify-content: flex-end;
+}
